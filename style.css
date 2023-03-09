@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+    height: 100%;
+}
+.nav :hover{
+    color: chartreuse;
+}
+.containers{
+    display: flex;
+    margin: 10px;
+}
+/*.container nav nav-link :hover{
+    color: blue;
+}*/
+.portion{
+    background-color: black;
+    margin: 10px;
+    border-width: 600px;
+    margin-top: 3px;
+}
+.customDiv{
+    margin: 3px;
+    max-height: 200px;
+   
+}
